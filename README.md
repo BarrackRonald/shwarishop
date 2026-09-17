@@ -1,6 +1,7 @@
 # Welcome to your Lovable project
 
 ## Project info
+## Shop management on Lovable
 
 **URL**: https://lovable.dev/projects/1847dc30-e261-46c1-b33f-d5878aab7e45
 
